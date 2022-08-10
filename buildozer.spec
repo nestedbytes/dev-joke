@@ -1,10 +1,10 @@
 [app]
 
 # (str) Title of your application
-title = Developer Joke
+title = Developer-Joke
 
 # (str) Package name
-package.name = Developer Joke
+package.name = Developer-Joke
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = projects.shourgamer2.tk

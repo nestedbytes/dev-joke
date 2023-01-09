@@ -36,7 +36,7 @@ version = 0.1
 
 # (list) Application requirements
 # comma separated e.g. requirements = sqlite3,kivy
-source.include_exts = py,png,jpg,kv,atlas,pyjokes
+source.include_exts = py,png,jpg,kv,atlas,pyjokes,random
 # (str) Custom source folders for requirements
 # Sets custom source for any requirements with recipes
 # requirements.source.kivy = ../../kivy
